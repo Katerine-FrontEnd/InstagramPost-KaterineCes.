@@ -1,5 +1,6 @@
 body{
     font-family: "Roboto", sans-serif;
+    background-color: black;
   
 }
 
@@ -20,7 +21,7 @@ p{
     padding: 5px;
 }
 .post{
- 
+    background: white;
     width: 400px;
     margin: 0 auto;
     
