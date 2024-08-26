@@ -1,0 +1,51 @@
+body{
+    font-family: "Roboto", sans-serif;
+  
+}
+
+h1{
+    font-size: 15px;
+    margin:5px 0 0 0;
+}
+h2{
+    font-size: 13px;
+    font-weight: 400;
+    margin:0 0 5px 0;
+  
+}
+
+p{
+    font-size: 14px;
+    margin:5px;
+    padding: 5px;
+}
+.post{
+ 
+    width: 400px;
+    margin: 0 auto;
+    
+}
+.post-img{
+text-align: center;
+}
+
+img{
+    width: 400px;
+}
+.fa-solid{
+    margin-left: 290px;
+}
+
+.post-header{
+    display: flex;
+    align-items: center;
+    gap:5px;
+    margin: 5px;
+}
+
+.post-icons{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+    align-items: center;
+}
